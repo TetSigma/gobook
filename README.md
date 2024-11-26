@@ -1,0 +1,1 @@
+GOBOOK is a learning repository for go's "The book", all programs in this repo are took from it 
